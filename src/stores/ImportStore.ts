@@ -4,6 +4,7 @@ import BaseStore from './BaseStore';
 import RootStore from './RootStore';
 import {handleError} from '../utils/ErrorUtils';
 import terms from '../importData/terms.json';
+import fieldsOfStudy from '../importData/fieldsOfStudy.json';
 
 export default class ImportStore extends BaseStore {
     constructor(rootStore: RootStore) {

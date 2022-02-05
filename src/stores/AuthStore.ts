@@ -57,11 +57,11 @@ export default class AuthStore extends BaseStore {
             .then((res) => {
                 if (res.data.roles.includes('ADMIN')) {
                     this.setIsLoggedIn(true);
-                    this.setLoading(false);
                     localStorage.setItem('jsosUser', res.data.token);
                 } else {
                     this.setError('You do not have proper permissions');
                 }
+                this.setLoading(false);
             })
             .catch((error) => {
                 if (error.response && error.response.status === 401) {
