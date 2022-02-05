@@ -1,0 +1,714 @@
+[
+    {
+        "fieldOfStudyId": 1,
+        "name": "Architektura",
+        "nameEn": "Architecture",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 1
+    },
+    {
+        "fieldOfStudyId": 2,
+        "name": "Automatyka i robotyka",
+        "nameEn": "Automation and Robotics",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 5
+    },
+    {
+        "fieldOfStudyId": 3,
+        "name": "Automatyka przemysłowa",
+        "nameEn": "Industrial automation",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 5
+    },
+    {
+        "fieldOfStudyId": 5,
+        "name": "Biomechanika inżynierska",
+        "nameEn": "Engineering Biomechanics",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 7
+    },
+    {
+        "fieldOfStudyId": 6,
+        "name": "Biotechnologia",
+        "nameEn": "Biotechnology",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 7
+    },
+    {
+        "fieldOfStudyId": 7,
+        "name": "Budownictwo",
+        "nameEn": "Construction",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 2
+    },
+    {
+        "fieldOfStudyId": 8,
+        "name": "Chemia i analityka przemysłowa",
+        "nameEn": "Chemical and industrial analytics",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 3
+    },
+    {
+        "fieldOfStudyId": 9,
+        "name": "Chemia i inżynieria materiałów",
+        "nameEn": "Chemistry and materials engineering",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 3
+    },
+    {
+        "fieldOfStudyId": 10,
+        "name": "Cyberbezpieczeństwo",
+        "nameEn": "Cybersecurity",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 4
+    },
+    {
+        "fieldOfStudyId": 11,
+        "name": "Elektromechatronika",
+        "nameEn": "Electromechatronics",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 5
+    },
+    {
+        "fieldOfStudyId": 12,
+        "name": "Elektromobilność",
+        "nameEn": "Electromobility",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 5
+    },
+    {
+        "fieldOfStudyId": 13,
+        "name": "Elektronika",
+        "nameEn": "Electronics",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 5
+    },
+    {
+        "fieldOfStudyId": 14,
+        "name": "Elektronika i telekomunikacja",
+        "nameEn": "Electronics and telecommunication",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 5
+    },
+    {
+        "fieldOfStudyId": 15,
+        "name": "Elektrotechnika",
+        "nameEn": "Electrotechnics",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 5
+    },
+    {
+        "fieldOfStudyId": 16,
+        "name": "Energetyka",
+        "nameEn": "Power engineering",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 9
+    },
+    {
+        "fieldOfStudyId": 17,
+        "name": "Fizyka techniczna",
+        "nameEn": "Technical Physics",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 5
+    },
+    {
+        "fieldOfStudyId": 18,
+        "name": "Geodezja i kartografia",
+        "nameEn": "Geodesy and Cartography",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 6
+    },
+    {
+        "fieldOfStudyId": 19,
+        "name": "Geoinformatyka",
+        "nameEn": "Geoinformatics",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 6
+    },
+    {
+        "fieldOfStudyId": 20,
+        "name": "Górnictwo i geologia",
+        "nameEn": "Mining and Geology",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 6
+    },
+    {
+        "fieldOfStudyId": 21,
+        "name": "Gospodarka przestrzenna",
+        "nameEn": "Spatial economy",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 6
+    },
+    {
+        "fieldOfStudyId": 22,
+        "name": "Informatyczne systemy automatyki",
+        "nameEn": "IT automation systems",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 5
+    },
+    {
+        "fieldOfStudyId": 23,
+        "name": "Informatyka algorytmiczna",
+        "nameEn": "Algorithmic informatics",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 4
+    },
+    {
+        "fieldOfStudyId": 24,
+        "name": "Informatyka stosowana",
+        "nameEn": "Computer Science",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 4
+    },
+    {
+        "fieldOfStudyId": 25,
+        "name": "Informatyka stosowana w j. angielskim",
+        "nameEn": "Computer Science in English",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 4
+    },
+    {
+        "fieldOfStudyId": 26,
+        "name": "Informatyka techniczna",
+        "nameEn": "Technical Computer Science",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 4
+    },
+    {
+        "fieldOfStudyId": 27,
+        "name": "Inteligentna elektronika",
+        "nameEn": "Intelligent electronics",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 5
+    },
+    {
+        "fieldOfStudyId": 28,
+        "name": "Inżynieria biomedyczna",
+        "nameEn": "Biomedical engineering",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 7
+    },
+    {
+        "fieldOfStudyId": 29,
+        "name": "Inżynieria chemiczna i procesowa",
+        "nameEn": "Chemical and process engineering",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 7
+    },
+    {
+        "fieldOfStudyId": 30,
+        "name": "Inżynieria elektroniczna i komputerowa w j. angielskim",
+        "nameEn": "Electronic and computer engineering in English",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 7
+    },
+    {
+        "fieldOfStudyId": 31,
+        "name": "Inżynieria kwantowa",
+        "nameEn": "Quantum engineering",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 7
+    },
+    {
+        "fieldOfStudyId": 32,
+        "name": "Inżynieria mikrosystemów mechatronicznych",
+        "nameEn": "Engineering of mechatronic microsystems",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 9
+    },
+    {
+        "fieldOfStudyId": 33,
+        "name": "Inżynieria środowiska",
+        "nameEn": "Environmental engineering",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 7
+    },
+    {
+        "fieldOfStudyId": 34,
+        "name": "Inżynieria systemów",
+        "nameEn": "Systems engineering",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 5
+    },
+    {
+        "fieldOfStudyId": 35,
+        "name": "Inżynieria zarządzania",
+        "nameEn": "Management engineering",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 8
+    },
+    {
+        "fieldOfStudyId": 36,
+        "name": "Lotnictwo i kosmonautyka",
+        "nameEn": "Aviation and astronautics",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 12
+    },
+    {
+        "fieldOfStudyId": 37,
+        "name": "Matematyka",
+        "nameEn": "Maths",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 13
+    },
+    {
+        "fieldOfStudyId": 38,
+        "name": "Matematyka stosowana",
+        "nameEn": "Mathematics",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 13
+    },
+    {
+        "fieldOfStudyId": 39,
+        "name": "Mechanika i budowa maszyn",
+        "nameEn": "Mechanical engineering",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 9
+    },
+    {
+        "fieldOfStudyId": 40,
+        "name": "Mechanika i budowa maszyn energetycznych",
+        "nameEn": "Mechanics and construction of energy machines",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 9
+    },
+    {
+        "fieldOfStudyId": 41,
+        "name": "Mechanika i budowa maszyn w j. angielskim",
+        "nameEn": "Mechanics and mechanical engineering in English",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 12
+    },
+    {
+        "fieldOfStudyId": 42,
+        "name": "Mechatronika",
+        "nameEn": "Mechatronics",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 10
+    },
+    {
+        "fieldOfStudyId": 43,
+        "name": "Odnawialne źródła energii",
+        "nameEn": "Renewable energy sources",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 12
+    },
+    {
+        "fieldOfStudyId": 44,
+        "name": "Optyka",
+        "nameEn": "Optics",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 12
+    },
+    {
+        "fieldOfStudyId": 45,
+        "name": "Robotyka i automatyzacja procesów",
+        "nameEn": "Robotics and process automation",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 12
+    },
+    {
+        "fieldOfStudyId": 46,
+        "name": "Technologia chemiczna",
+        "nameEn": "Chemical Technology",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 3
+    },
+    {
+        "fieldOfStudyId": 47,
+        "name": "Technologie ochrony środowiska",
+        "nameEn": "Environmental protection technologies",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 6
+    },
+    {
+        "fieldOfStudyId": 48,
+        "name": "Teleinformatyka",
+        "nameEn": "Teleinformatics",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 4
+    },
+    {
+        "fieldOfStudyId": 49,
+        "name": "Telekomunikacja",
+        "nameEn": "Telecommunication",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 8
+    },
+    {
+        "fieldOfStudyId": 50,
+        "name": "Transport",
+        "nameEn": "Transport",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 2
+    },
+    {
+        "fieldOfStudyId": 51,
+        "name": "Zarządzanie",
+        "nameEn": "Management",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 8
+    },
+    {
+        "fieldOfStudyId": 52,
+        "name": "Zarządzanie i inżynieria produkcji",
+        "nameEn": "Management and production engineering",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 8
+    },
+    {
+        "fieldOfStudyId": 53,
+        "name": "Zarządzanie w j. angielskim",
+        "nameEn": "Management in English",
+        "level": "ENIGNEER",
+        "form": "FULLTIME",
+        "facultyId": 8
+    },
+    {
+        "fieldOfStudyId": 54,
+        "name": "Architektura",
+        "nameEn": "Architecture",
+        "level": "MASTER",
+        "form": "FULLTIME",
+        "facultyId": 1
+    },
+    {
+        "fieldOfStudyId": 55,
+        "name": "Automatyka i robotyka",
+        "nameEn": "Automation and Robotics",
+        "level": "MASTER",
+        "form": "FULLTIME",
+        "facultyId": 5
+    },
+    {
+        "fieldOfStudyId": 56,
+        "name": "Biotechnologia",
+        "nameEn": "Biotechnology",
+        "level": "MASTER",
+        "form": "FULLTIME",
+        "facultyId": 7
+    },
+    {
+        "fieldOfStudyId": 57,
+        "name": "Budownictwo",
+        "nameEn": "Construction",
+        "level": "MASTER",
+        "form": "FULLTIME",
+        "facultyId": 2
+    },
+    {
+        "fieldOfStudyId": 58,
+        "name": "Chemia i analityka przemysłowa",
+        "nameEn": "Chemical and industrial analytics",
+        "level": "MASTER",
+        "form": "FULLTIME",
+        "facultyId": 3
+    },
+    {
+        "fieldOfStudyId": 59,
+        "name": "Cyberbezpieczeństwo",
+        "nameEn": "Cybersecurity",
+        "level": "MASTER",
+        "form": "FULLTIME",
+        "facultyId": 4
+    },
+    {
+        "fieldOfStudyId": 60,
+        "name": "Elektromechatronika",
+        "nameEn": "Electromechatronics",
+        "level": "MASTER",
+        "form": "FULLTIME",
+        "facultyId": 5
+    },
+    {
+        "fieldOfStudyId": 61,
+        "name": "Elektronika",
+        "nameEn": "Electronics",
+        "level": "MASTER",
+        "form": "FULLTIME",
+        "facultyId": 5
+    },
+    {
+        "fieldOfStudyId": 62,
+        "name": "Energetyka",
+        "nameEn": "Power engineering",
+        "level": "MASTER",
+        "form": "FULLTIME",
+        "facultyId": 9
+    },
+    {
+        "fieldOfStudyId": 63,
+        "name": "Geodezja i kartografia",
+        "nameEn": "Geodesy and Cartography",
+        "level": "MASTER",
+        "form": "FULLTIME",
+        "facultyId": 6
+    },
+    {
+        "fieldOfStudyId": 64,
+        "name": "Geoinformatyka",
+        "nameEn": "Geoinformatics",
+        "level": "MASTER",
+        "form": "FULLTIME",
+        "facultyId": 6
+    },
+    {
+        "fieldOfStudyId": 65,
+        "name": "Informatyka stosowana",
+        "nameEn": "Computer Science",
+        "level": "MASTER",
+        "form": "FULLTIME",
+        "facultyId": 4
+    },
+    {
+        "fieldOfStudyId": 66,
+        "name": "Informatyka stosowana w j. angielskim",
+        "nameEn": "Computer Science in English",
+        "level": "MASTER",
+        "form": "FULLTIME",
+        "facultyId": 4
+    },
+    {
+        "fieldOfStudyId": 67,
+        "name": "Inżynieria biomedyczna",
+        "nameEn": "Biomedical engineering",
+        "level": "MASTER",
+        "form": "FULLTIME",
+        "facultyId": 7
+    },
+    {
+        "fieldOfStudyId": 68,
+        "name": "Inżynieria chemiczna i procesowa",
+        "nameEn": "Chemical and process engineering",
+        "level": "MASTER",
+        "form": "FULLTIME",
+        "facultyId": 7
+    },
+    {
+        "fieldOfStudyId": 69,
+        "name": "Inżynieria mikrosystemów mechatronicznych",
+        "nameEn": "Engineering of mechatronic microsystems",
+        "level": "MASTER",
+        "form": "FULLTIME",
+        "facultyId": 9
+    },
+    {
+        "fieldOfStudyId": 70,
+        "name": "Inżynieria środowiska",
+        "nameEn": "Environmental engineering",
+        "level": "MASTER",
+        "form": "FULLTIME",
+        "facultyId": 7
+    },
+    {
+        "fieldOfStudyId": 71,
+        "name": "Inżynieria systemów",
+        "nameEn": "Systems engineering",
+        "level": "MASTER",
+        "form": "FULLTIME",
+        "facultyId": 5
+    },
+    {
+        "fieldOfStudyId": 72,
+        "name": "Inżynieria zarządzania",
+        "nameEn": "Management engineering",
+        "level": "MASTER",
+        "form": "FULLTIME",
+        "facultyId": 8
+    },
+    {
+        "fieldOfStudyId": 73,
+        "name": "Lotnictwo i kosmonautyka",
+        "nameEn": "Aviation and astronautics",
+        "level": "MASTER",
+        "form": "FULLTIME",
+        "facultyId": 12
+    },
+    {
+        "fieldOfStudyId": 74,
+        "name": "Matematyka",
+        "nameEn": "Maths",
+        "level": "MASTER",
+        "form": "FULLTIME",
+        "facultyId": 13
+    },
+    {
+        "fieldOfStudyId": 75,
+        "name": "Matematyka stosowana",
+        "nameEn": "Mathematics",
+        "level": "MASTER",
+        "form": "FULLTIME",
+        "facultyId": 13
+    },
+    {
+        "fieldOfStudyId": 76,
+        "name": "Mechanika i budowa maszyn",
+        "nameEn": "Mechanical engineering",
+        "level": "MASTER",
+        "form": "FULLTIME",
+        "facultyId": 9
+    },
+    {
+        "fieldOfStudyId": 77,
+        "name": "Mechanika i budowa maszyn energetycznych",
+        "nameEn": "Mechanics and construction of energy machines",
+        "level": "MASTER",
+        "form": "FULLTIME",
+        "facultyId": 9
+    },
+    {
+        "fieldOfStudyId": 78,
+        "name": "Mechanika i budowa maszyn w j. angielskim",
+        "nameEn": "Mechanics and mechanical engineering in English",
+        "level": "MASTER",
+        "form": "FULLTIME",
+        "facultyId": 12
+    },
+    {
+        "fieldOfStudyId": 79,
+        "name": "Mechatronika",
+        "nameEn": "Mechatronics",
+        "level": "MASTER",
+        "form": "FULLTIME",
+        "facultyId": 10
+    },
+    {
+        "fieldOfStudyId": 80,
+        "name": "Odnawialne źródła energii",
+        "nameEn": "Renewable energy sources",
+        "level": "MASTER",
+        "form": "FULLTIME",
+        "facultyId": 12
+    },
+    {
+        "fieldOfStudyId": 81,
+        "name": "Optyka",
+        "nameEn": "Optics",
+        "level": "MASTER",
+        "form": "FULLTIME",
+        "facultyId": 12
+    },
+    {
+        "fieldOfStudyId": 82,
+        "name": "Robotyka i automatyzacja procesów",
+        "nameEn": "Robotics and process automation",
+        "level": "MASTER",
+        "form": "FULLTIME",
+        "facultyId": 12
+    },
+    {
+        "fieldOfStudyId": 83,
+        "name": "Technologia chemiczna",
+        "nameEn": "Chemical Technology",
+        "level": "MASTER",
+        "form": "FULLTIME",
+        "facultyId": 3
+    },
+    {
+        "fieldOfStudyId": 84,
+        "name": "Technologie ochrony środowiska",
+        "nameEn": "Environmental protection technologies",
+        "level": "MASTER",
+        "form": "FULLTIME",
+        "facultyId": 6
+    },
+    {
+        "fieldOfStudyId": 85,
+        "name": "Teleinformatyka",
+        "nameEn": "Teleinformatics",
+        "level": "MASTER",
+        "form": "FULLTIME",
+        "facultyId": 4
+    },
+    {
+        "fieldOfStudyId": 86,
+        "name": "Telekomunikacja",
+        "nameEn": "Telecommunication",
+        "level": "MASTER",
+        "form": "FULLTIME",
+        "facultyId": 8
+    },
+    {
+        "fieldOfStudyId": 87,
+        "name": "Transport",
+        "nameEn": "Transport",
+        "level": "MASTER",
+        "form": "FULLTIME",
+        "facultyId": 2
+    },
+    {
+        "fieldOfStudyId": 88,
+        "name": "Zarządzanie",
+        "nameEn": "Management",
+        "level": "MASTER",
+        "form": "FULLTIME",
+        "facultyId": 8
+    },
+    {
+        "fieldOfStudyId": 89,
+        "name": "Zarządzanie i inżynieria produkcji",
+        "nameEn": "Management and production engineering",
+        "level": "MASTER",
+        "form": "FULLTIME",
+        "facultyId": 8
+    },
+    {
+        "fieldOfStudyId": 90,
+        "name": "Zarządzanie w j. angielskim",
+        "nameEn": "Management in English",
+        "level": "MASTER",
+        "form": "FULLTIME",
+        "facultyId": 8
+    }
+]
