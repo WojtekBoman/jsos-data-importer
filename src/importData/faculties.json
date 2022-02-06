@@ -1,0 +1,80 @@
+[
+    {
+        "facultyId": 1,
+        "name": "Wydział Architektury",
+        "nameEn": "Faculty of Architecture",
+        "symbol": "W1"
+    },
+    {
+        "facultyId": 2,
+        "name": "Wydział Budownictwa Lądowego i Wodnego",
+        "nameEn": "Faculty of Civil Engineering",
+        "symbol": "W2"
+    },
+    {
+        "facultyId": 3,
+        "name": "Wydział Chemiczny",
+        "nameEn": "Faculty of Chemistry",
+        "symbol": "W3"
+    },
+    {
+        "facultyId": 4,
+        "name": "Wydział Informatyki i telekomunikacji",
+        "nameEn": "Faculty of Information and Communication Technology",
+        "symbol": "W4N"
+    },
+    {
+        "facultyId": 5,
+        "name": "Wydział Elektryczny",
+        "nameEn": "Faculty of Electrical Engineering",
+        "symbol": "W5"
+    },
+    {
+        "facultyId": 6,
+        "name": "Wydział Geoinżynierii, Górnictwa i Geologii",
+        "nameEn": "Faculty of Geoengineering, Mining and Geology",
+        "symbol": "W6"
+    },
+    {
+        "facultyId": 7,
+        "name": "Wydział Inżynierii środowiska",
+        "nameEn": "Faculty of Environmental Engineering",
+        "symbol": "W7"
+    },
+    {
+        "facultyId": 8,
+        "name": "Wydział Zarządzania",
+        "nameEn": "Faculty of Management",
+        "symbol": "W8"
+    },
+    {
+        "facultyId": 9,
+        "name": "Wydział Mechaniczno-Energetyczny",
+        "nameEn": "Faculty of Mechanical and Power Engineering",
+        "symbol": "W9"
+    },
+    {
+        "facultyId": 10,
+        "name": "Wydział Mechaniczny",
+        "nameEn": "Faculty of Mechanical Engineering",
+        "symbol": "W10"
+    },
+    {
+        "facultyId": 11,
+        "name": "Wydział Podstawowych Problemów Techniki",
+        "nameEn": "Faculty of Fundamental Problems of Technology",
+        "symbol": "W11"
+    },
+    {
+        "facultyId": 12,
+        "name": "Wydział Elektroniki, Fotoniki i Mikrosystemów",
+        "nameEn": "Faculty of Electronics, Photonics and Microsystems",
+        "symbol": "W12"
+    },
+    {
+        "facultyId": 13,
+        "name": "Wydział Matematyki",
+        "nameEn": "Faculty of Pure and Applied Mathematics",
+        "symbol": "W13"
+    }
+]

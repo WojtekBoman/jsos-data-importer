@@ -1,0 +1,3510 @@
+[
+    {
+      "entryId": 1,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 32,
+      "studentId": 1
+    },
+    {
+      "entryId": 2,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 51,
+      "studentId": 2
+    },
+    {
+      "entryId": 3,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 48,
+      "studentId": 3
+    },
+    {
+      "entryId": 4,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 18,
+      "studentId": 4
+    },
+    {
+      "entryId": 5,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 27,
+      "studentId": 5
+    },
+    {
+      "entryId": 6,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 30,
+      "studentId": 6
+    },
+    {
+      "entryId": 7,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 22,
+      "studentId": 7
+    },
+    {
+      "entryId": 8,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 1,
+      "studentId": 8
+    },
+    {
+      "entryId": 9,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 25,
+      "studentId": 9
+    },
+    {
+      "entryId": 10,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 21,
+      "studentId": 10
+    },
+    {
+      "entryId": 11,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 52,
+      "studentId": 11
+    },
+    {
+      "entryId": 12,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 23,
+      "studentId": 12
+    },
+    {
+      "entryId": 13,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 31,
+      "studentId": 13
+    },
+    {
+      "entryId": 14,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 52,
+      "studentId": 14
+    },
+    {
+      "entryId": 15,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 41,
+      "studentId": 15
+    },
+    {
+      "entryId": 16,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 42,
+      "studentId": 16
+    },
+    {
+      "entryId": 17,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 12,
+      "studentId": 17
+    },
+    {
+      "entryId": 18,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 27,
+      "studentId": 18
+    },
+    {
+      "entryId": 19,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 11,
+      "studentId": 19
+    },
+    {
+      "entryId": 20,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 14,
+      "studentId": 20
+    },
+    {
+      "entryId": 21,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 12,
+      "studentId": 21
+    },
+    {
+      "entryId": 22,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 9,
+      "studentId": 22
+    },
+    {
+      "entryId": 23,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 35,
+      "studentId": 23
+    },
+    {
+      "entryId": 24,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 46,
+      "studentId": 24
+    },
+    {
+      "entryId": 25,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 33,
+      "studentId": 25
+    },
+    {
+      "entryId": 26,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 35,
+      "studentId": 26
+    },
+    {
+      "entryId": 27,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 42,
+      "studentId": 27
+    },
+    {
+      "entryId": 28,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 47,
+      "studentId": 28
+    },
+    {
+      "entryId": 29,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 28,
+      "studentId": 29
+    },
+    {
+      "entryId": 30,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 14,
+      "studentId": 30
+    },
+    {
+      "entryId": 31,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 20,
+      "studentId": 31
+    },
+    {
+      "entryId": 32,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 8,
+      "studentId": 32
+    },
+    {
+      "entryId": 33,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 20,
+      "studentId": 33
+    },
+    {
+      "entryId": 34,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 19,
+      "studentId": 34
+    },
+    {
+      "entryId": 35,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 3,
+      "studentId": 35
+    },
+    {
+      "entryId": 36,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 5,
+      "studentId": 36
+    },
+    {
+      "entryId": 37,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 5,
+      "studentId": 37
+    },
+    {
+      "entryId": 38,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 8,
+      "studentId": 38
+    },
+    {
+      "entryId": 39,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 39,
+      "studentId": 39
+    },
+    {
+      "entryId": 40,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 23,
+      "studentId": 40
+    },
+    {
+      "entryId": 41,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 43,
+      "studentId": 41
+    },
+    {
+      "entryId": 42,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 50,
+      "studentId": 42
+    },
+    {
+      "entryId": 43,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 5,
+      "studentId": 43
+    },
+    {
+      "entryId": 44,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 26,
+      "studentId": 44
+    },
+    {
+      "entryId": 45,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 36,
+      "studentId": 45
+    },
+    {
+      "entryId": 46,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 3,
+      "studentId": 46
+    },
+    {
+      "entryId": 47,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 2,
+      "studentId": 47
+    },
+    {
+      "entryId": 48,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 4,
+      "studentId": 48
+    },
+    {
+      "entryId": 49,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 52,
+      "studentId": 49
+    },
+    {
+      "entryId": 50,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 17,
+      "studentId": 50
+    },
+    {
+      "entryId": 51,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 28,
+      "studentId": 51
+    },
+    {
+      "entryId": 52,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 28,
+      "studentId": 52
+    },
+    {
+      "entryId": 53,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 23,
+      "studentId": 53
+    },
+    {
+      "entryId": 54,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 19,
+      "studentId": 54
+    },
+    {
+      "entryId": 55,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 8,
+      "studentId": 55
+    },
+    {
+      "entryId": 56,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 27,
+      "studentId": 56
+    },
+    {
+      "entryId": 57,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 43,
+      "studentId": 57
+    },
+    {
+      "entryId": 58,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 43,
+      "studentId": 58
+    },
+    {
+      "entryId": 59,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 33,
+      "studentId": 59
+    },
+    {
+      "entryId": 60,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 17,
+      "studentId": 60
+    },
+    {
+      "entryId": 61,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 52,
+      "studentId": 61
+    },
+    {
+      "entryId": 62,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 9,
+      "studentId": 62
+    },
+    {
+      "entryId": 63,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 2,
+      "studentId": 63
+    },
+    {
+      "entryId": 64,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 53,
+      "studentId": 64
+    },
+    {
+      "entryId": 65,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 46,
+      "studentId": 65
+    },
+    {
+      "entryId": 66,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 37,
+      "studentId": 66
+    },
+    {
+      "entryId": 67,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 43,
+      "studentId": 67
+    },
+    {
+      "entryId": 68,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 4,
+      "studentId": 68
+    },
+    {
+      "entryId": 69,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 52,
+      "studentId": 69
+    },
+    {
+      "entryId": 70,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 18,
+      "studentId": 70
+    },
+    {
+      "entryId": 71,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 19,
+      "studentId": 71
+    },
+    {
+      "entryId": 72,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 14,
+      "studentId": 72
+    },
+    {
+      "entryId": 73,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 22,
+      "studentId": 73
+    },
+    {
+      "entryId": 74,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 34,
+      "studentId": 74
+    },
+    {
+      "entryId": 75,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 45,
+      "studentId": 75
+    },
+    {
+      "entryId": 76,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 29,
+      "studentId": 76
+    },
+    {
+      "entryId": 77,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 7,
+      "studentId": 77
+    },
+    {
+      "entryId": 78,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 52,
+      "studentId": 78
+    },
+    {
+      "entryId": 79,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 46,
+      "studentId": 79
+    },
+    {
+      "entryId": 80,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 40,
+      "studentId": 80
+    },
+    {
+      "entryId": 81,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 47,
+      "studentId": 81
+    },
+    {
+      "entryId": 82,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 7,
+      "studentId": 82
+    },
+    {
+      "entryId": 83,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 4,
+      "studentId": 83
+    },
+    {
+      "entryId": 84,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 45,
+      "studentId": 84
+    },
+    {
+      "entryId": 85,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 46,
+      "studentId": 85
+    },
+    {
+      "entryId": 86,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 50,
+      "studentId": 86
+    },
+    {
+      "entryId": 87,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 9,
+      "studentId": 87
+    },
+    {
+      "entryId": 88,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 50,
+      "studentId": 88
+    },
+    {
+      "entryId": 89,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 39,
+      "studentId": 89
+    },
+    {
+      "entryId": 90,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 12,
+      "studentId": 90
+    },
+    {
+      "entryId": 91,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 6,
+      "studentId": 91
+    },
+    {
+      "entryId": 92,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 46,
+      "studentId": 92
+    },
+    {
+      "entryId": 93,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 28,
+      "studentId": 93
+    },
+    {
+      "entryId": 94,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 39,
+      "studentId": 94
+    },
+    {
+      "entryId": 95,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 22,
+      "studentId": 95
+    },
+    {
+      "entryId": 96,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 18,
+      "studentId": 96
+    },
+    {
+      "entryId": 97,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 19,
+      "studentId": 97
+    },
+    {
+      "entryId": 98,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 46,
+      "studentId": 98
+    },
+    {
+      "entryId": 99,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 53,
+      "studentId": 99
+    },
+    {
+      "entryId": 100,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 20,
+      "studentId": 100
+    },
+    {
+      "entryId": 101,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 30,
+      "studentId": 101
+    },
+    {
+      "entryId": 102,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 43,
+      "studentId": 102
+    },
+    {
+      "entryId": 103,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 49,
+      "studentId": 103
+    },
+    {
+      "entryId": 104,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 22,
+      "studentId": 104
+    },
+    {
+      "entryId": 105,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 8,
+      "studentId": 105
+    },
+    {
+      "entryId": 106,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 22,
+      "studentId": 106
+    },
+    {
+      "entryId": 107,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 21,
+      "studentId": 107
+    },
+    {
+      "entryId": 108,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 19,
+      "studentId": 108
+    },
+    {
+      "entryId": 109,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 3,
+      "studentId": 109
+    },
+    {
+      "entryId": 110,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 15,
+      "studentId": 110
+    },
+    {
+      "entryId": 111,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 51,
+      "studentId": 111
+    },
+    {
+      "entryId": 112,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 33,
+      "studentId": 112
+    },
+    {
+      "entryId": 113,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 43,
+      "studentId": 113
+    },
+    {
+      "entryId": 114,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 47,
+      "studentId": 114
+    },
+    {
+      "entryId": 115,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 47,
+      "studentId": 115
+    },
+    {
+      "entryId": 116,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 21,
+      "studentId": 116
+    },
+    {
+      "entryId": 117,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 31,
+      "studentId": 117
+    },
+    {
+      "entryId": 118,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 37,
+      "studentId": 118
+    },
+    {
+      "entryId": 119,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 3,
+      "studentId": 119
+    },
+    {
+      "entryId": 120,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 24,
+      "studentId": 120
+    },
+    {
+      "entryId": 121,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 1,
+      "studentId": 121
+    },
+    {
+      "entryId": 122,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 43,
+      "studentId": 122
+    },
+    {
+      "entryId": 123,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 37,
+      "studentId": 123
+    },
+    {
+      "entryId": 124,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 30,
+      "studentId": 124
+    },
+    {
+      "entryId": 125,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 22,
+      "studentId": 125
+    },
+    {
+      "entryId": 126,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 21,
+      "studentId": 126
+    },
+    {
+      "entryId": 127,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 25,
+      "studentId": 127
+    },
+    {
+      "entryId": 128,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 38,
+      "studentId": 128
+    },
+    {
+      "entryId": 129,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 52,
+      "studentId": 129
+    },
+    {
+      "entryId": 130,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 6,
+      "studentId": 130
+    },
+    {
+      "entryId": 131,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 49,
+      "studentId": 131
+    },
+    {
+      "entryId": 132,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 38,
+      "studentId": 132
+    },
+    {
+      "entryId": 133,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 52,
+      "studentId": 133
+    },
+    {
+      "entryId": 134,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 10,
+      "studentId": 134
+    },
+    {
+      "entryId": 135,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 32,
+      "studentId": 135
+    },
+    {
+      "entryId": 136,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 38,
+      "studentId": 136
+    },
+    {
+      "entryId": 137,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 33,
+      "studentId": 137
+    },
+    {
+      "entryId": 138,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 22,
+      "studentId": 138
+    },
+    {
+      "entryId": 139,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 41,
+      "studentId": 139
+    },
+    {
+      "entryId": 140,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 44,
+      "studentId": 140
+    },
+    {
+      "entryId": 141,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 24,
+      "studentId": 141
+    },
+    {
+      "entryId": 142,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 47,
+      "studentId": 142
+    },
+    {
+      "entryId": 143,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 7,
+      "studentId": 143
+    },
+    {
+      "entryId": 144,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 46,
+      "studentId": 144
+    },
+    {
+      "entryId": 145,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 11,
+      "studentId": 145
+    },
+    {
+      "entryId": 146,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 27,
+      "studentId": 146
+    },
+    {
+      "entryId": 147,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 17,
+      "studentId": 147
+    },
+    {
+      "entryId": 148,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 9,
+      "studentId": 148
+    },
+    {
+      "entryId": 149,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 31,
+      "studentId": 149
+    },
+    {
+      "entryId": 150,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 11,
+      "studentId": 150
+    },
+    {
+      "entryId": 151,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 35,
+      "studentId": 151
+    },
+    {
+      "entryId": 152,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 13,
+      "studentId": 152
+    },
+    {
+      "entryId": 153,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 53,
+      "studentId": 153
+    },
+    {
+      "entryId": 154,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 41,
+      "studentId": 154
+    },
+    {
+      "entryId": 155,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 27,
+      "studentId": 155
+    },
+    {
+      "entryId": 156,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 23,
+      "studentId": 156
+    },
+    {
+      "entryId": 157,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 42,
+      "studentId": 157
+    },
+    {
+      "entryId": 158,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 40,
+      "studentId": 158
+    },
+    {
+      "entryId": 159,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 43,
+      "studentId": 159
+    },
+    {
+      "entryId": 160,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 47,
+      "studentId": 160
+    },
+    {
+      "entryId": 161,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 35,
+      "studentId": 161
+    },
+    {
+      "entryId": 162,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 25,
+      "studentId": 162
+    },
+    {
+      "entryId": 163,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 20,
+      "studentId": 163
+    },
+    {
+      "entryId": 164,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 48,
+      "studentId": 164
+    },
+    {
+      "entryId": 165,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 36,
+      "studentId": 165
+    },
+    {
+      "entryId": 166,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 46,
+      "studentId": 166
+    },
+    {
+      "entryId": 167,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 47,
+      "studentId": 167
+    },
+    {
+      "entryId": 168,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 3,
+      "studentId": 168
+    },
+    {
+      "entryId": 169,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 17,
+      "studentId": 169
+    },
+    {
+      "entryId": 170,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 16,
+      "studentId": 170
+    },
+    {
+      "entryId": 171,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 3,
+      "studentId": 171
+    },
+    {
+      "entryId": 172,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 2,
+      "studentId": 172
+    },
+    {
+      "entryId": 173,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 5,
+      "studentId": 173
+    },
+    {
+      "entryId": 174,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 15,
+      "studentId": 174
+    },
+    {
+      "entryId": 175,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 26,
+      "studentId": 175
+    },
+    {
+      "entryId": 176,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 34,
+      "studentId": 176
+    },
+    {
+      "entryId": 177,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 10,
+      "studentId": 177
+    },
+    {
+      "entryId": 178,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 49,
+      "studentId": 178
+    },
+    {
+      "entryId": 179,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 14,
+      "studentId": 179
+    },
+    {
+      "entryId": 180,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 46,
+      "studentId": 180
+    },
+    {
+      "entryId": 181,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 13,
+      "studentId": 181
+    },
+    {
+      "entryId": 182,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 50,
+      "studentId": 182
+    },
+    {
+      "entryId": 183,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 12,
+      "studentId": 183
+    },
+    {
+      "entryId": 184,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 2,
+      "studentId": 184
+    },
+    {
+      "entryId": 185,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 7,
+      "studentId": 185
+    },
+    {
+      "entryId": 186,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 20,
+      "studentId": 186
+    },
+    {
+      "entryId": 187,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 49,
+      "studentId": 187
+    },
+    {
+      "entryId": 188,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 30,
+      "studentId": 188
+    },
+    {
+      "entryId": 189,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 51,
+      "studentId": 189
+    },
+    {
+      "entryId": 190,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 16,
+      "studentId": 190
+    },
+    {
+      "entryId": 191,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 50,
+      "studentId": 191
+    },
+    {
+      "entryId": 192,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 17,
+      "studentId": 192
+    },
+    {
+      "entryId": 193,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 21,
+      "studentId": 193
+    },
+    {
+      "entryId": 194,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 3,
+      "studentId": 194
+    },
+    {
+      "entryId": 195,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 1,
+      "studentId": 195
+    },
+    {
+      "entryId": 196,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 14,
+      "studentId": 196
+    },
+    {
+      "entryId": 197,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 32,
+      "studentId": 197
+    },
+    {
+      "entryId": 198,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 5,
+      "studentId": 198
+    },
+    {
+      "entryId": 199,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 27,
+      "studentId": 199
+    },
+    {
+      "entryId": 200,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 47,
+      "studentId": 200
+    },
+    {
+      "entryId": 201,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 14,
+      "studentId": 201
+    },
+    {
+      "entryId": 202,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 37,
+      "studentId": 202
+    },
+    {
+      "entryId": 203,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 13,
+      "studentId": 203
+    },
+    {
+      "entryId": 204,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 48,
+      "studentId": 204
+    },
+    {
+      "entryId": 205,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 44,
+      "studentId": 205
+    },
+    {
+      "entryId": 206,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 5,
+      "studentId": 206
+    },
+    {
+      "entryId": 207,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 5,
+      "studentId": 207
+    },
+    {
+      "entryId": 208,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 23,
+      "studentId": 208
+    },
+    {
+      "entryId": 209,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 47,
+      "studentId": 209
+    },
+    {
+      "entryId": 210,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 23,
+      "studentId": 210
+    },
+    {
+      "entryId": 211,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 31,
+      "studentId": 211
+    },
+    {
+      "entryId": 212,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 49,
+      "studentId": 212
+    },
+    {
+      "entryId": 213,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 51,
+      "studentId": 213
+    },
+    {
+      "entryId": 214,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 10,
+      "studentId": 214
+    },
+    {
+      "entryId": 215,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 53,
+      "studentId": 215
+    },
+    {
+      "entryId": 216,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 39,
+      "studentId": 216
+    },
+    {
+      "entryId": 217,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 27,
+      "studentId": 217
+    },
+    {
+      "entryId": 218,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 49,
+      "studentId": 218
+    },
+    {
+      "entryId": 219,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 37,
+      "studentId": 219
+    },
+    {
+      "entryId": 220,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 24,
+      "studentId": 220
+    },
+    {
+      "entryId": 221,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 30,
+      "studentId": 221
+    },
+    {
+      "entryId": 222,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 22,
+      "studentId": 222
+    },
+    {
+      "entryId": 223,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 33,
+      "studentId": 223
+    },
+    {
+      "entryId": 224,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 35,
+      "studentId": 224
+    },
+    {
+      "entryId": 225,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 35,
+      "studentId": 225
+    },
+    {
+      "entryId": 226,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 49,
+      "studentId": 226
+    },
+    {
+      "entryId": 227,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 10,
+      "studentId": 227
+    },
+    {
+      "entryId": 228,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 36,
+      "studentId": 228
+    },
+    {
+      "entryId": 229,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 23,
+      "studentId": 229
+    },
+    {
+      "entryId": 230,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 34,
+      "studentId": 230
+    },
+    {
+      "entryId": 231,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 12,
+      "studentId": 231
+    },
+    {
+      "entryId": 232,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 11,
+      "studentId": 232
+    },
+    {
+      "entryId": 233,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 40,
+      "studentId": 233
+    },
+    {
+      "entryId": 234,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 35,
+      "studentId": 234
+    },
+    {
+      "entryId": 235,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 41,
+      "studentId": 235
+    },
+    {
+      "entryId": 236,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 31,
+      "studentId": 236
+    },
+    {
+      "entryId": 237,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 4,
+      "studentId": 237
+    },
+    {
+      "entryId": 238,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 25,
+      "studentId": 238
+    },
+    {
+      "entryId": 239,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 29,
+      "studentId": 239
+    },
+    {
+      "entryId": 240,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 38,
+      "studentId": 240
+    },
+    {
+      "entryId": 241,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 52,
+      "studentId": 241
+    },
+    {
+      "entryId": 242,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 20,
+      "studentId": 242
+    },
+    {
+      "entryId": 243,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 20,
+      "studentId": 243
+    },
+    {
+      "entryId": 244,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 53,
+      "studentId": 244
+    },
+    {
+      "entryId": 245,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 2,
+      "studentId": 245
+    },
+    {
+      "entryId": 246,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 48,
+      "studentId": 246
+    },
+    {
+      "entryId": 247,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 38,
+      "studentId": 247
+    },
+    {
+      "entryId": 248,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 16,
+      "studentId": 248
+    },
+    {
+      "entryId": 249,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 15,
+      "studentId": 249
+    },
+    {
+      "entryId": 250,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 45,
+      "studentId": 250
+    },
+    {
+      "entryId": 251,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 52,
+      "studentId": 251
+    },
+    {
+      "entryId": 252,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 28,
+      "studentId": 252
+    },
+    {
+      "entryId": 253,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 20,
+      "studentId": 253
+    },
+    {
+      "entryId": 254,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 13,
+      "studentId": 254
+    },
+    {
+      "entryId": 255,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 11,
+      "studentId": 255
+    },
+    {
+      "entryId": 256,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 24,
+      "studentId": 256
+    },
+    {
+      "entryId": 257,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 19,
+      "studentId": 257
+    },
+    {
+      "entryId": 258,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 39,
+      "studentId": 258
+    },
+    {
+      "entryId": 259,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 30,
+      "studentId": 259
+    },
+    {
+      "entryId": 260,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 52,
+      "studentId": 260
+    },
+    {
+      "entryId": 261,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 39,
+      "studentId": 261
+    },
+    {
+      "entryId": 262,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 47,
+      "studentId": 262
+    },
+    {
+      "entryId": 263,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 24,
+      "studentId": 263
+    },
+    {
+      "entryId": 264,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 1,
+      "studentId": 264
+    },
+    {
+      "entryId": 265,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 4,
+      "studentId": 265
+    },
+    {
+      "entryId": 266,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 24,
+      "studentId": 266
+    },
+    {
+      "entryId": 267,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 16,
+      "studentId": 267
+    },
+    {
+      "entryId": 268,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 13,
+      "studentId": 268
+    },
+    {
+      "entryId": 269,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 6,
+      "studentId": 269
+    },
+    {
+      "entryId": 270,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 50,
+      "studentId": 270
+    },
+    {
+      "entryId": 271,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 43,
+      "studentId": 271
+    },
+    {
+      "entryId": 272,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 47,
+      "studentId": 272
+    },
+    {
+      "entryId": 273,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 39,
+      "studentId": 273
+    },
+    {
+      "entryId": 274,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 45,
+      "studentId": 274
+    },
+    {
+      "entryId": 275,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 5,
+      "studentId": 275
+    },
+    {
+      "entryId": 276,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 2,
+      "studentId": 276
+    },
+    {
+      "entryId": 277,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 49,
+      "studentId": 277
+    },
+    {
+      "entryId": 278,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 16,
+      "studentId": 278
+    },
+    {
+      "entryId": 279,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 51,
+      "studentId": 279
+    },
+    {
+      "entryId": 280,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 23,
+      "studentId": 280
+    },
+    {
+      "entryId": 281,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 33,
+      "studentId": 281
+    },
+    {
+      "entryId": 282,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 49,
+      "studentId": 282
+    },
+    {
+      "entryId": 283,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 14,
+      "studentId": 283
+    },
+    {
+      "entryId": 284,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 4,
+      "studentId": 284
+    },
+    {
+      "entryId": 285,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 37,
+      "studentId": 285
+    },
+    {
+      "entryId": 286,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 13,
+      "studentId": 286
+    },
+    {
+      "entryId": 287,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 12,
+      "studentId": 287
+    },
+    {
+      "entryId": 288,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 25,
+      "studentId": 288
+    },
+    {
+      "entryId": 289,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 16,
+      "studentId": 289
+    },
+    {
+      "entryId": 290,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 51,
+      "studentId": 290
+    },
+    {
+      "entryId": 291,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 52,
+      "studentId": 291
+    },
+    {
+      "entryId": 292,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 24,
+      "studentId": 292
+    },
+    {
+      "entryId": 293,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 1,
+      "studentId": 293
+    },
+    {
+      "entryId": 294,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 18,
+      "studentId": 294
+    },
+    {
+      "entryId": 295,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 39,
+      "studentId": 295
+    },
+    {
+      "entryId": 296,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 20,
+      "studentId": 296
+    },
+    {
+      "entryId": 297,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 18,
+      "studentId": 297
+    },
+    {
+      "entryId": 298,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 21,
+      "studentId": 298
+    },
+    {
+      "entryId": 299,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 47,
+      "studentId": 299
+    },
+    {
+      "entryId": 300,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 14,
+      "studentId": 300
+    },
+    {
+      "entryId": 301,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 25,
+      "studentId": 301
+    },
+    {
+      "entryId": 302,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 3,
+      "studentId": 302
+    },
+    {
+      "entryId": 303,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 37,
+      "studentId": 303
+    },
+    {
+      "entryId": 304,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 17,
+      "studentId": 304
+    },
+    {
+      "entryId": 305,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 32,
+      "studentId": 305
+    },
+    {
+      "entryId": 306,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 37,
+      "studentId": 306
+    },
+    {
+      "entryId": 307,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 23,
+      "studentId": 307
+    },
+    {
+      "entryId": 308,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 30,
+      "studentId": 308
+    },
+    {
+      "entryId": 309,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 1,
+      "studentId": 309
+    },
+    {
+      "entryId": 310,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 13,
+      "studentId": 310
+    },
+    {
+      "entryId": 311,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 30,
+      "studentId": 311
+    },
+    {
+      "entryId": 312,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 45,
+      "studentId": 312
+    },
+    {
+      "entryId": 313,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 49,
+      "studentId": 313
+    },
+    {
+      "entryId": 314,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 50,
+      "studentId": 314
+    },
+    {
+      "entryId": 315,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 21,
+      "studentId": 315
+    },
+    {
+      "entryId": 316,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 45,
+      "studentId": 316
+    },
+    {
+      "entryId": 317,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 13,
+      "studentId": 317
+    },
+    {
+      "entryId": 318,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 5,
+      "studentId": 318
+    },
+    {
+      "entryId": 319,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 30,
+      "studentId": 319
+    },
+    {
+      "entryId": 320,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 51,
+      "studentId": 320
+    },
+    {
+      "entryId": 321,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 52,
+      "studentId": 321
+    },
+    {
+      "entryId": 322,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 49,
+      "studentId": 322
+    },
+    {
+      "entryId": 323,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 12,
+      "studentId": 323
+    },
+    {
+      "entryId": 324,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 11,
+      "studentId": 324
+    },
+    {
+      "entryId": 325,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 42,
+      "studentId": 325
+    },
+    {
+      "entryId": 326,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 7,
+      "studentId": 326
+    },
+    {
+      "entryId": 327,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 35,
+      "studentId": 327
+    },
+    {
+      "entryId": 328,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 22,
+      "studentId": 328
+    },
+    {
+      "entryId": 329,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 33,
+      "studentId": 329
+    },
+    {
+      "entryId": 330,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 47,
+      "studentId": 330
+    },
+    {
+      "entryId": 331,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 2,
+      "studentId": 331
+    },
+    {
+      "entryId": 332,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 52,
+      "studentId": 332
+    },
+    {
+      "entryId": 333,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 51,
+      "studentId": 333
+    },
+    {
+      "entryId": 334,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 18,
+      "studentId": 334
+    },
+    {
+      "entryId": 335,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 32,
+      "studentId": 335
+    },
+    {
+      "entryId": 336,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 15,
+      "studentId": 336
+    },
+    {
+      "entryId": 337,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 4,
+      "studentId": 337
+    },
+    {
+      "entryId": 338,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 33,
+      "studentId": 338
+    },
+    {
+      "entryId": 339,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 52,
+      "studentId": 339
+    },
+    {
+      "entryId": 340,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 47,
+      "studentId": 340
+    },
+    {
+      "entryId": 341,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 13,
+      "studentId": 341
+    },
+    {
+      "entryId": 342,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 37,
+      "studentId": 342
+    },
+    {
+      "entryId": 343,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 33,
+      "studentId": 343
+    },
+    {
+      "entryId": 344,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 34,
+      "studentId": 344
+    },
+    {
+      "entryId": 345,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 50,
+      "studentId": 345
+    },
+    {
+      "entryId": 346,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 1,
+      "studentId": 346
+    },
+    {
+      "entryId": 347,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 1,
+      "studentId": 347
+    },
+    {
+      "entryId": 348,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 16,
+      "studentId": 348
+    },
+    {
+      "entryId": 349,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 4,
+      "studentId": 349
+    },
+    {
+      "entryId": 350,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 28,
+      "studentId": 350
+    },
+    {
+      "entryId": 351,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 9,
+      "studentId": 351
+    },
+    {
+      "entryId": 352,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 19,
+      "studentId": 352
+    },
+    {
+      "entryId": 353,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 25,
+      "studentId": 353
+    },
+    {
+      "entryId": 354,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 32,
+      "studentId": 354
+    },
+    {
+      "entryId": 355,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 28,
+      "studentId": 355
+    },
+    {
+      "entryId": 356,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 17,
+      "studentId": 356
+    },
+    {
+      "entryId": 357,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 51,
+      "studentId": 357
+    },
+    {
+      "entryId": 358,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 37,
+      "studentId": 358
+    },
+    {
+      "entryId": 359,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 8,
+      "studentId": 359
+    },
+    {
+      "entryId": 360,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 5,
+      "studentId": 360
+    },
+    {
+      "entryId": 361,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 22,
+      "studentId": 361
+    },
+    {
+      "entryId": 362,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 19,
+      "studentId": 362
+    },
+    {
+      "entryId": 363,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 31,
+      "studentId": 363
+    },
+    {
+      "entryId": 364,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 46,
+      "studentId": 364
+    },
+    {
+      "entryId": 365,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 3,
+      "studentId": 365
+    },
+    {
+      "entryId": 366,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 24,
+      "studentId": 366
+    },
+    {
+      "entryId": 367,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 53,
+      "studentId": 367
+    },
+    {
+      "entryId": 368,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 6,
+      "studentId": 368
+    },
+    {
+      "entryId": 369,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 32,
+      "studentId": 369
+    },
+    {
+      "entryId": 370,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 26,
+      "studentId": 370
+    },
+    {
+      "entryId": 371,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 33,
+      "studentId": 371
+    },
+    {
+      "entryId": 372,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 28,
+      "studentId": 372
+    },
+    {
+      "entryId": 373,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 51,
+      "studentId": 373
+    },
+    {
+      "entryId": 374,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 2,
+      "studentId": 374
+    },
+    {
+      "entryId": 375,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 25,
+      "studentId": 375
+    },
+    {
+      "entryId": 376,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 52,
+      "studentId": 376
+    },
+    {
+      "entryId": 377,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 29,
+      "studentId": 377
+    },
+    {
+      "entryId": 378,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 6,
+      "studentId": 378
+    },
+    {
+      "entryId": 379,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 30,
+      "studentId": 379
+    },
+    {
+      "entryId": 380,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 40,
+      "studentId": 380
+    },
+    {
+      "entryId": 381,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 33,
+      "studentId": 381
+    },
+    {
+      "entryId": 382,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 4,
+      "studentId": 382
+    },
+    {
+      "entryId": 383,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 41,
+      "studentId": 383
+    },
+    {
+      "entryId": 384,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 35,
+      "studentId": 384
+    },
+    {
+      "entryId": 385,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 53,
+      "studentId": 385
+    },
+    {
+      "entryId": 386,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 4,
+      "studentId": 386
+    },
+    {
+      "entryId": 387,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 1,
+      "studentId": 387
+    },
+    {
+      "entryId": 388,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 40,
+      "studentId": 388
+    },
+    {
+      "entryId": 389,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 17,
+      "studentId": 389
+    },
+    {
+      "entryId": 390,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 13,
+      "studentId": 390
+    },
+    {
+      "entryId": 391,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 45,
+      "studentId": 391
+    },
+    {
+      "entryId": 392,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 24,
+      "studentId": 392
+    },
+    {
+      "entryId": 393,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 13,
+      "studentId": 393
+    },
+    {
+      "entryId": 394,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 23,
+      "studentId": 394
+    },
+    {
+      "entryId": 395,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 47,
+      "studentId": 395
+    },
+    {
+      "entryId": 396,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 49,
+      "studentId": 396
+    },
+    {
+      "entryId": 397,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 47,
+      "studentId": 397
+    },
+    {
+      "entryId": 398,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 34,
+      "studentId": 398
+    },
+    {
+      "entryId": 399,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 21,
+      "studentId": 399
+    },
+    {
+      "entryId": 400,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 46,
+      "studentId": 400
+    },
+    {
+      "entryId": 401,
+      "termNumber": 5,
+      "termId": 1,
+      "fieldOfStudyId": 9,
+      "studentId": 401
+    },
+    {
+      "entryId": 401,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 56,
+      "studentId": 1
+    },
+    {
+      "entryId": 402,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 64,
+      "studentId": 2
+    },
+    {
+      "entryId": 403,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 67,
+      "studentId": 3
+    },
+    {
+      "entryId": 404,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 62,
+      "studentId": 4
+    },
+    {
+      "entryId": 405,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 59,
+      "studentId": 5
+    },
+    {
+      "entryId": 406,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 64,
+      "studentId": 6
+    },
+    {
+      "entryId": 407,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 58,
+      "studentId": 7
+    },
+    {
+      "entryId": 408,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 82,
+      "studentId": 8
+    },
+    {
+      "entryId": 409,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 57,
+      "studentId": 9
+    },
+    {
+      "entryId": 410,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 79,
+      "studentId": 10
+    },
+    {
+      "entryId": 411,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 68,
+      "studentId": 11
+    },
+    {
+      "entryId": 412,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 81,
+      "studentId": 12
+    },
+    {
+      "entryId": 413,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 78,
+      "studentId": 13
+    },
+    {
+      "entryId": 414,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 60,
+      "studentId": 14
+    },
+    {
+      "entryId": 415,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 57,
+      "studentId": 15
+    },
+    {
+      "entryId": 416,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 60,
+      "studentId": 16
+    },
+    {
+      "entryId": 417,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 83,
+      "studentId": 17
+    },
+    {
+      "entryId": 418,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 90,
+      "studentId": 18
+    },
+    {
+      "entryId": 419,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 90,
+      "studentId": 19
+    },
+    {
+      "entryId": 420,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 90,
+      "studentId": 20
+    },
+    {
+      "entryId": 421,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 64,
+      "studentId": 21
+    },
+    {
+      "entryId": 422,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 81,
+      "studentId": 22
+    },
+    {
+      "entryId": 423,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 58,
+      "studentId": 23
+    },
+    {
+      "entryId": 424,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 85,
+      "studentId": 24
+    },
+    {
+      "entryId": 425,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 61,
+      "studentId": 25
+    },
+    {
+      "entryId": 426,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 57,
+      "studentId": 26
+    },
+    {
+      "entryId": 427,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 69,
+      "studentId": 27
+    },
+    {
+      "entryId": 428,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 71,
+      "studentId": 28
+    },
+    {
+      "entryId": 429,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 56,
+      "studentId": 29
+    },
+    {
+      "entryId": 430,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 54,
+      "studentId": 30
+    },
+    {
+      "entryId": 431,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 75,
+      "studentId": 31
+    },
+    {
+      "entryId": 432,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 83,
+      "studentId": 32
+    },
+    {
+      "entryId": 433,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 83,
+      "studentId": 33
+    },
+    {
+      "entryId": 434,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 87,
+      "studentId": 34
+    },
+    {
+      "entryId": 435,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 66,
+      "studentId": 35
+    },
+    {
+      "entryId": 436,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 55,
+      "studentId": 36
+    },
+    {
+      "entryId": 437,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 79,
+      "studentId": 37
+    },
+    {
+      "entryId": 438,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 77,
+      "studentId": 38
+    },
+    {
+      "entryId": 439,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 69,
+      "studentId": 39
+    },
+    {
+      "entryId": 440,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 82,
+      "studentId": 40
+    },
+    {
+      "entryId": 441,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 90,
+      "studentId": 41
+    },
+    {
+      "entryId": 442,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 72,
+      "studentId": 42
+    },
+    {
+      "entryId": 443,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 78,
+      "studentId": 43
+    },
+    {
+      "entryId": 444,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 72,
+      "studentId": 44
+    },
+    {
+      "entryId": 445,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 79,
+      "studentId": 45
+    },
+    {
+      "entryId": 446,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 62,
+      "studentId": 46
+    },
+    {
+      "entryId": 447,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 90,
+      "studentId": 47
+    },
+    {
+      "entryId": 448,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 58,
+      "studentId": 48
+    },
+    {
+      "entryId": 449,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 69,
+      "studentId": 49
+    },
+    {
+      "entryId": 450,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 68,
+      "studentId": 50
+    },
+    {
+      "entryId": 451,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 74,
+      "studentId": 51
+    },
+    {
+      "entryId": 452,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 88,
+      "studentId": 52
+    },
+    {
+      "entryId": 453,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 58,
+      "studentId": 53
+    },
+    {
+      "entryId": 454,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 76,
+      "studentId": 54
+    },
+    {
+      "entryId": 455,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 71,
+      "studentId": 55
+    },
+    {
+      "entryId": 456,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 71,
+      "studentId": 56
+    },
+    {
+      "entryId": 457,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 70,
+      "studentId": 57
+    },
+    {
+      "entryId": 458,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 80,
+      "studentId": 58
+    },
+    {
+      "entryId": 459,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 87,
+      "studentId": 59
+    },
+    {
+      "entryId": 460,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 66,
+      "studentId": 60
+    },
+    {
+      "entryId": 461,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 87,
+      "studentId": 61
+    },
+    {
+      "entryId": 462,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 66,
+      "studentId": 62
+    },
+    {
+      "entryId": 463,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 54,
+      "studentId": 63
+    },
+    {
+      "entryId": 464,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 84,
+      "studentId": 64
+    },
+    {
+      "entryId": 465,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 89,
+      "studentId": 65
+    },
+    {
+      "entryId": 466,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 60,
+      "studentId": 66
+    },
+    {
+      "entryId": 467,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 79,
+      "studentId": 67
+    },
+    {
+      "entryId": 468,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 78,
+      "studentId": 68
+    },
+    {
+      "entryId": 469,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 68,
+      "studentId": 69
+    },
+    {
+      "entryId": 470,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 61,
+      "studentId": 70
+    },
+    {
+      "entryId": 471,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 54,
+      "studentId": 71
+    },
+    {
+      "entryId": 472,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 61,
+      "studentId": 72
+    },
+    {
+      "entryId": 473,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 77,
+      "studentId": 73
+    },
+    {
+      "entryId": 474,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 64,
+      "studentId": 74
+    },
+    {
+      "entryId": 475,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 64,
+      "studentId": 75
+    },
+    {
+      "entryId": 476,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 63,
+      "studentId": 76
+    },
+    {
+      "entryId": 477,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 79,
+      "studentId": 77
+    },
+    {
+      "entryId": 478,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 69,
+      "studentId": 78
+    },
+    {
+      "entryId": 479,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 68,
+      "studentId": 79
+    },
+    {
+      "entryId": 480,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 59,
+      "studentId": 80
+    },
+    {
+      "entryId": 481,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 89,
+      "studentId": 81
+    },
+    {
+      "entryId": 482,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 55,
+      "studentId": 82
+    },
+    {
+      "entryId": 483,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 57,
+      "studentId": 83
+    },
+    {
+      "entryId": 484,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 64,
+      "studentId": 84
+    },
+    {
+      "entryId": 485,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 67,
+      "studentId": 85
+    },
+    {
+      "entryId": 486,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 56,
+      "studentId": 86
+    },
+    {
+      "entryId": 487,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 80,
+      "studentId": 87
+    },
+    {
+      "entryId": 488,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 79,
+      "studentId": 88
+    },
+    {
+      "entryId": 489,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 86,
+      "studentId": 89
+    },
+    {
+      "entryId": 490,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 77,
+      "studentId": 90
+    },
+    {
+      "entryId": 491,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 82,
+      "studentId": 91
+    },
+    {
+      "entryId": 492,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 73,
+      "studentId": 92
+    },
+    {
+      "entryId": 493,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 67,
+      "studentId": 93
+    },
+    {
+      "entryId": 494,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 88,
+      "studentId": 94
+    },
+    {
+      "entryId": 495,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 73,
+      "studentId": 95
+    },
+    {
+      "entryId": 496,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 70,
+      "studentId": 96
+    },
+    {
+      "entryId": 497,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 70,
+      "studentId": 97
+    },
+    {
+      "entryId": 498,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 70,
+      "studentId": 98
+    },
+    {
+      "entryId": 499,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 54,
+      "studentId": 99
+    },
+    {
+      "entryId": 500,
+      "termNumber": 1,
+      "termId": 2,
+      "fieldOfStudyId": 90,
+      "studentId": 100
+    }
+  ]
+  

@@ -18,7 +18,19 @@ export const Main = observer(() => {
     const {
         stores: {
             authStore: {isLoggedIn, logout},
-            importStore: {error, loading, successText, clearError, clearSuccessText, importTerms},
+            importStore: {
+                error,
+                loading,
+                successText,
+                clearError,
+                clearSuccessText,
+                importTerms,
+                importEmployees,
+                importEntries,
+                importFaculties,
+                importFieldsOfStudy,
+                importStudents,
+            },
         },
     } = useStores();
 
@@ -48,23 +60,33 @@ export const Main = observer(() => {
             </ImportDiv>
             <ImportDiv>
                 <h4>Zaimportuj dane wydziałów</h4>
-                <Button disabled={loading}>Importuj</Button>
+                <Button disabled={loading} onClick={importFaculties}>
+                    Importuj
+                </Button>
             </ImportDiv>
             <ImportDiv>
                 <h4>Zaimportuj dane kierunków</h4>
-                <Button disabled={loading}>Importuj</Button>
+                <Button disabled={loading} onClick={importFieldsOfStudy}>
+                    Importuj
+                </Button>
             </ImportDiv>
             <ImportDiv>
                 <h4>Zaimportuj dane prowadzących</h4>
-                <Button disabled={loading}>Importuj</Button>
+                <Button disabled={loading} onClick={importEmployees}>
+                    Importuj
+                </Button>
             </ImportDiv>
             <ImportDiv>
                 <h4>Zaimportuj dane studentów</h4>
-                <Button disabled={loading}>Importuj</Button>
+                <Button disabled={loading} onClick={importStudents}>
+                    Importuj
+                </Button>
             </ImportDiv>
             <ImportDiv>
                 <h4>Zaimportuj dane wpisów studentów</h4>
-                <Button disabled={loading}>Importuj</Button>
+                <Button disabled={loading} onClick={importEntries}>
+                    Importuj
+                </Button>
             </ImportDiv>
             <hr className='my-4'></hr>
             <Button onClick={logout}>Wyloguj się</Button>

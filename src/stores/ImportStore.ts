@@ -5,6 +5,10 @@ import RootStore from './RootStore';
 import {handleError} from '../utils/ErrorUtils';
 import terms from '../importData/terms.json';
 import fieldsOfStudy from '../importData/fieldsOfStudy.json';
+import faculties from '../importData/faculties.json';
+import entries from '../importData/entries.json';
+import students from '../importData/students.json';
+import employees from '../importData/employees.json';
 
 export default class ImportStore extends BaseStore {
     constructor(rootStore: RootStore) {
@@ -55,6 +59,81 @@ export default class ImportStore extends BaseStore {
             .then(() => {
                 this.setLoading(false);
                 this.setSuccessText('Terms imported successfully');
+            })
+            .catch((error) => {
+                this.setLoading(false);
+                this.setError(handleError(error));
+            });
+    };
+
+    importFaculties = () => {
+        this.setLoading(true);
+        this.clearError();
+        this.clearSuccessText();
+        RestClient.importFaculties(faculties)
+            .then(() => {
+                this.setLoading(false);
+                this.setSuccessText('Faculties imported successfully');
+            })
+            .catch((error) => {
+                this.setLoading(false);
+                this.setError(handleError(error));
+            });
+    };
+
+    importFieldsOfStudy = () => {
+        this.setLoading(true);
+        this.clearError();
+        this.clearSuccessText();
+        RestClient.importFieldsOfStudy(fieldsOfStudy)
+            .then(() => {
+                this.setLoading(false);
+                this.setSuccessText('Fields of study imported successfully');
+            })
+            .catch((error) => {
+                this.setLoading(false);
+                this.setError(handleError(error));
+            });
+    };
+
+    importEmployees = () => {
+        this.setLoading(true);
+        this.clearError();
+        this.clearSuccessText();
+        RestClient.importEmployees(employees)
+            .then(() => {
+                this.setLoading(false);
+                this.setSuccessText('Employees imported successfully');
+            })
+            .catch((error) => {
+                this.setLoading(false);
+                this.setError(handleError(error));
+            });
+    };
+
+    importStudents = () => {
+        this.setLoading(true);
+        this.clearError();
+        this.clearSuccessText();
+        RestClient.importStudents(students)
+            .then(() => {
+                this.setLoading(false);
+                this.setSuccessText('Students imported successfully');
+            })
+            .catch((error) => {
+                this.setLoading(false);
+                this.setError(handleError(error));
+            });
+    };
+
+    importEntries = () => {
+        this.setLoading(true);
+        this.clearError();
+        this.clearSuccessText();
+        RestClient.importEntries(entries)
+            .then(() => {
+                this.setLoading(false);
+                this.setSuccessText('Entries imported successfully');
             })
             .catch((error) => {
                 this.setLoading(false);
