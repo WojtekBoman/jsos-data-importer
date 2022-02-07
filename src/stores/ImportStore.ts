@@ -58,7 +58,7 @@ export default class ImportStore extends BaseStore {
         RestClient.importTerms(terms)
             .then(() => {
                 this.setLoading(false);
-                this.setSuccessText('Terms imported successfully');
+                this.setSuccessText('Dane semestrów zostały zaimportowane prawidłowo!');
             })
             .catch((error) => {
                 this.setLoading(false);
@@ -73,7 +73,7 @@ export default class ImportStore extends BaseStore {
         RestClient.importFaculties(faculties)
             .then(() => {
                 this.setLoading(false);
-                this.setSuccessText('Faculties imported successfully');
+                this.setSuccessText('Dane wydziałów zostały zaimportowane prawidłowo!');
             })
             .catch((error) => {
                 this.setLoading(false);
@@ -88,7 +88,7 @@ export default class ImportStore extends BaseStore {
         RestClient.importFieldsOfStudy(fieldsOfStudy)
             .then(() => {
                 this.setLoading(false);
-                this.setSuccessText('Fields of study imported successfully');
+                this.setSuccessText('Dane kierunków studiów zostały zaimportowane prawidłowo!');
             })
             .catch((error) => {
                 this.setLoading(false);
@@ -103,7 +103,7 @@ export default class ImportStore extends BaseStore {
         RestClient.importEmployees(employees)
             .then(() => {
                 this.setLoading(false);
-                this.setSuccessText('Employees imported successfully');
+                this.setSuccessText('Dane pracowników zostały zaimportowane prawidłowo!');
             })
             .catch((error) => {
                 this.setLoading(false);
@@ -118,7 +118,7 @@ export default class ImportStore extends BaseStore {
         RestClient.importStudents(students)
             .then(() => {
                 this.setLoading(false);
-                this.setSuccessText('Students imported successfully');
+                this.setSuccessText('Dane studentów zostały zaimportowane prawidłowo!');
             })
             .catch((error) => {
                 this.setLoading(false);
@@ -133,7 +133,7 @@ export default class ImportStore extends BaseStore {
         RestClient.importEntries(entries)
             .then(() => {
                 this.setLoading(false);
-                this.setSuccessText('Entries imported successfully');
+                this.setSuccessText('Dane wpisów studentów zostały zaimportowane prawidłowo!');
             })
             .catch((error) => {
                 this.setLoading(false);
